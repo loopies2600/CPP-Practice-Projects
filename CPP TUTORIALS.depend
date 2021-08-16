@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1629026891 source:/home/loopies/cpptutorials/CPP TUTORIALS/main.cpp
+	<iostream>
+
+1629123585 source:/home/loopies/cpptutorials/CPP TUTORIALS/power.cpp
+	<iostream>
+	"math.h"
+	"input.h"
+
+1629111795 source:/home/loopies/cpptutorials/CPP TUTORIALS/funcparam.cpp
+	<iostream>
+
+1629112080 /home/loopies/cpptutorials/CPP TUTORIALS/funcparam.h
+
+1629122469 source:/home/loopies/cpptutorials/CPP TUTORIALS/math.cpp
+	"math.h"
+
+1629123546 source:/home/loopies/cpptutorials/CPP TUTORIALS/input.cpp
+	<iostream>
+	"input.h"
+
+1629122412 /home/loopies/cpptutorials/CPP TUTORIALS/math.h
+
+1629123637 /home/loopies/cpptutorials/CPP TUTORIALS/input.h
+	<iostream>
+
